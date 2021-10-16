@@ -1,35 +1,25 @@
 # Manifold Finance PM Reports
 
+> For reports see the files in this repo
 
+## Sprint: 2021_10 (October)
 
-## Q3 2021 PM Progress
-
-- Roadmap update: scheduled, to be updated Sept 18th, 2021
-
-## August/September 2021 
-
-> For period starting August 14, ending Sept 15th
-
-[view charts and graphs for select project analytics](https://manifoldfinance.github.io/public-pm/)
-
-
-### 30 Day Progress Report
-
-> 10 Epics had Stories completed <br>
-> 0 Epics were finished
-
-- Integrate an external arb engine increased from 0% to 100% complete, expanded from 0 to 5 Stories, and 5 Stories were finished. <br>
-- Documentation Internal and External increased from 0% to 100% complete, and 3 Stories were finished. <br>
-- Sushi Specification increased from 0% to 100% complete, 1 Story was finished, and was marked as Done. <br>
-- GTM/Market increased from 12% to 100% complete, and 7 Stories were finished. <br>
-- End to End v1 Production increased from 72% to 75% complete, expanded from 11 to 12 Stories, and 1 Story was finished. <br>
-- Smart Contract optimizations / bugfixes increased from 60% to 70% complete, and 1 Story was finished. <br>
-- CI/CD Omnibus increased from 44% to 66% complete, and 2 Stories were finished. <br>
-- Deploy Ethereum Clients increased from 0% to 66% complete, and 2 Stories were finished. <br>
-- SushiSwap Production Integration increased from 20% to 64% complete, expanded from 10 to 14 Stories, and 7 Stories were finished. <br>
-- KDB Improvements increased from 0% to 62% complete, expanded from 0 to 24 Stories, and 15 Stories were finished. <br>
-
-![](https://d.pr/i/ihcwVh.jpg)
-
-
-![](https://d.pr/i/v99JMR.jpg)
+| SPRINT:2021_10   | Name                                      | Section/Column      | Assignee | Notes                                                                                                                                                                     | Projects                  | Parent Task |
+|------------------|-------------------------------------------|---------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|
+| 1201061546387433 | Manifold \| EDEN                          | Ideas               |          |                                                                                                                                                                           | Manifold Content Calendar |             |
+| 1201061546387458 | OpenMEV Promo                             | Scheduled this week |          | We already have the video, which we'll post on the day of the integration, but we should also write an article for the blog imo.                                          | Manifold Content Calendar |             |
+| 1201061546387434 | Manifold \| KX (Partnership Announcement) | Scheduled this week |          | We're working on a video for this. If you can provide additional footage from KX, that would be helpful, but we can make it work regardless.                              | Manifold Content Calendar |             |
+| 1201061546387435 | Meme Competition (Community)              | Scheduled this week |          | Ready to go, just need the green light.See Slack - marketing channel.                                                                                                     | Manifold Content Calendar |             |
+| 1.20106E+15      | Staking Promo                             | Scheduled this week |          | Can you give us some stuff to work with? Staking DApp UI and Testnet planned for tomorrow, would be nice to be able to prepare stuff in advance.                          | Manifold Content Calendar |             |
+| 1201061546387436 | Public RPC Point                          | Scheduled this week |          | Maybe we can make a video around the tutorial that you mentioned. Also, would be nice to have a name to brand it - could be simple. Need to push out a clear message too. | Manifold Content Calendar |             |
+| 1201061546387452 | Tweets & TG Polls                         | Scheduled this week |          |                                                                                                                                                                           | Manifold Content Calendar |             |
+| 1201061546387437 | Extend #OpenMEV Promo                     | Scheduled next week |          |                                                                                                                                                                           | Manifold Content Calendar |             |
+| 1201061546387462 | Focus on Staking Promo                    | Scheduled next week |          |                                                                                                                                                                           | Manifold Content Calendar |             |
+| 1.20106E+15      | Meme Competition Results                  | Scheduled next week |          |                                                                                                                                                                           | Manifold Content Calendar |             |
+| 1201061546387457 | Tweets & TG Polls                         | Scheduled next week |          |                                                                                                                                                                           | Manifold Content Calendar |             |
+| 1201061546387468 | DAO Design and Architecture               | Later this month    |          | Would like to have more info on this.                                                                                                                                     | Manifold Content Calendar |             |
+| 1201061546387438 | Grants Program                            | Later this month    |          | October 2021                                                                                                                                                              | Manifold Content Calendar |             |
+| 1201061546387464 | Community Call (monthly)                  | Later this month    |          |                                                                                                                                                                           | Manifold Content Calendar |             |
+| 1201061546387466 | Staking Payout (monthly)                  | Later this month    |          |                                                                                                                                                                           | Manifold Content Calendar |             |
+| 1201061546387455 | Tweets & TG Polls                         | Later this month    |          |                                                                                                                                                                           | Manifold Content Calendar |             |
+| 1201061546387472 | ...                                       | Unscheduled         |          |                                                                                                                                                                           | Manifold Content Calendar |             |
